@@ -131,3 +131,41 @@ button {
     color: #1F2937;
     font-weight: bolder;
 }
+
+.sec-four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+.sec-four-content {
+    padding: 40px 80px;
+    border-radius: 12px;
+    background-color: #3882F6;
+    width: 800px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.text .text-one {
+    font-size: 24px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.text .text-two {
+    font-size: 18px;
+    font-weight: lighter;
+    color: #E5E7EB;
+}
+
+.sec-four-content button {
+    background-color: #3882F6;
+    border-radius: 6px;
+    border: 3px solid #F9FAF8;
+    color: #F9FAF8;
+    padding: 0px 30px;
+    font-size: 18px;
+}
